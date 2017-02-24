@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/scotfrederick/http_client",
+	"GoVersion": "go1.8",
+	"Deps": []
+}
